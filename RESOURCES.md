@@ -25,6 +25,7 @@ It is by no means exhaustive, so if you have others that are useful feel free to
 
 1. [Slido](https://www.slido.com/)
 2. [Mentimeter](https://www.mentimeter.com/)
+3. [Screen-Share Pointer Checklist](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) - A five-step attendee-view check for shared pointing and annotations in Zoom or Teams.
 
 ## Communities
 
